@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="704557da-f683-45bb-ba31-5e6187ef8c98" name="Changes" comment="task done">
       <change afterPath="$PROJECT_DIR$/src/Sept/_09092024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/_20092024/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/_20092024/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/_20092024/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/_20092024/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/_20092024/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/_23092024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/_23092024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/_23092024/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/_23092024/lab1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/_23092024/lab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/_23092024/lab3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,11 @@
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
     "Application.Task_16092024.executor": "Run",
+    "Application.lab1.executor": "Run",
+    "Application.lab2.executor": "Run",
+    "Application.lab3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -72,13 +77,13 @@
     "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/ATB8XJavaPrograms1/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="Sept._20092024.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._20092024.Task1" />
+  <component name="RunManager" selected="Application.lab3">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept._23092024.Task1" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._20092024.*" />
+          <option name="PATTERN" value="Sept._23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sept._20092024.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._20092024.Task2" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept._23092024.Task2" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._20092024.*" />
+          <option name="PATTERN" value="Sept._23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sept._20092024.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._20092024.Task3" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept._23092024.Task3" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._20092024.*" />
+          <option name="PATTERN" value="Sept._23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sept._20092024.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._20092024.Task4" />
+    <configuration name="lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept._23092024.lab2" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._20092024.*" />
+          <option name="PATTERN" value="Sept._23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._20092024.Task5" />
+    <configuration name="lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept._23092024.lab3" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._20092024.*" />
+          <option name="PATTERN" value="Sept._23092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Sept._20092024.Task4" />
-        <item itemvalue="Application.Sept._20092024.Task3" />
-        <item itemvalue="Application.Sept._20092024.Task2" />
-        <item itemvalue="Application.Sept._20092024.Task1" />
+        <item itemvalue="Application.lab3" />
+        <item itemvalue="Application.lab2" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727610890498</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task done">
+      <option name="closed" value="true" />
+      <created>1727680311568</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727680311568</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +253,11 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/_23092024/Task3.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/_20092024/Task2.java</url>
           <line>5</line>
@@ -257,6 +275,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/_23092024/lab2.java</url>
+          <line>3</line>
+          <properties class="Sept._23092024.lab2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
