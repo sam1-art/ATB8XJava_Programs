@@ -1,4 +1,4 @@
-package Sept._20092024;
+package Sept.Sept_20092024;
 
 public class Task1 {
     public static void main(String[] args) {

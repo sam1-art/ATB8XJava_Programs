@@ -1,4 +1,4 @@
-package Sept._25092024;
+package Sept.Sept_25092024;
 
 //Table of number n = 10, print table with For or while.
 public class Task1 {

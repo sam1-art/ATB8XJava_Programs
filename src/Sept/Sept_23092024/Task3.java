@@ -1,4 +1,4 @@
-package Sept._23092024;
+package Sept.Sept_23092024;
 /*Write a program that converts between different units (e.g., kilometers to miles, Celsius to Fahrenheit)
 based on user selection using a switch statement.
 Input. -

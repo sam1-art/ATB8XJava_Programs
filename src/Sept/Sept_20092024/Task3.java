@@ -1,4 +1,4 @@
-package Sept._20092024;
+package Sept.Sept_20092024;
 /*Triangle Classifier ( If)
 Write a program that classifies a triangle based on its side lengths.
 Given three input values representing the lengths of the sides, determine

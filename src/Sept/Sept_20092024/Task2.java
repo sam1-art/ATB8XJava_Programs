@@ -1,6 +1,4 @@
-package Sept._20092024;
-
-import java.sql.SQLOutput;
+package Sept.Sept_20092024;
 
 public class Task2 {
     public static void main(String[] args) {

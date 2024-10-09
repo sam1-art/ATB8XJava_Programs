@@ -1,4 +1,4 @@
-package Sept._20092024;
+package Sept.Sept_20092024;
 /*
 FizzBuzz Test:
 Write a program that prints numbers from 1 to 100.

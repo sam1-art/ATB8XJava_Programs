@@ -1,4 +1,4 @@
-package Sept._23092024;
+package Sept.Sept_23092024;
 
 public class lab1 {
     public static void main(String[] args) {

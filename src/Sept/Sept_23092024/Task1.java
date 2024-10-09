@@ -1,4 +1,4 @@
-package Sept._23092024;
+package Sept.Sept_23092024;
 /*Create a simple calculator that performs addition, subtraction, multiplication, and division,
 modulus based on user input using switch statements.
 Inputs :   num 1, num 2, +

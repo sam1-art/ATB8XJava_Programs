@@ -1,4 +1,4 @@
-package Sept._23092024;
+package Sept.Sept_23092024;
 /*Write a program that takes an integer input (1-12) and prints the name of the corresponding
 month using a switch statement.
 Input  - 12
