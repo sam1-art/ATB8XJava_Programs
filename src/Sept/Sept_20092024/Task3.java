@@ -12,7 +12,7 @@ public class Task3 {
         int side1=15;
         int side2=25;
         int side3=35;
-        if(side1==side2 && side2==side3){
+        if(side1==side2 && side2==side3 && side1==side3){
             System.out.println("Triangle is equilateral");
         }
         else if(side1==side2 || side2==side3 || side3==side1){
