@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704557da-f683-45bb-ba31-5e6187ef8c98" name="Changes" comment="task done">
-      <change afterPath="$PROJECT_DIR$/src/Sept/_27092024/Lab01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept_06092024/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Sept_06092024/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept_13092024/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Sept_13092024/Lab010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept_13092024/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Sept_13092024/Lab011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept_13092024/Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Sept_13092024/Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/Sept_20092024/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Sept_20092024/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +80,20 @@
     "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/ATB8XJavaPrograms1/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab01">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Sept.Sept_16092024" />
+      <recent name="Sept_16092024" />
+      <recent name="Sept" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Lab01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._27092024.Lab01" />
+      <option name="MAIN_CLASS_NAME" value="Sept.Sept_27092024.Lab01" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._27092024.*" />
+          <option name="PATTERN" value="Sept.Sept_27092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sept._25092024.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._25092024.Task1" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Sept_25092024.Task1" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._25092024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sept._25092024.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._25092024.Task3" />
-      <module name="ATB8XJavaPrograms1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sept._25092024.*" />
+          <option name="PATTERN" value="Sept.Sept_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +115,11 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._25092024.Task2" />
+      <option name="MAIN_CLASS_NAME" value="Sept.Sept_25092024.Task2" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._25092024.*" />
+          <option name="PATTERN" value="Sept.Sept_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +127,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept._23092024.lab3" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Sept_25092024.Task3" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept._23092024.*" />
+          <option name="PATTERN" value="Sept.Sept_25092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Sept_20092024.Task4" />
+      <module name="ATB8XJavaPrograms1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sept.Sept_20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Lab01" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Sept._25092024.Task1" />
         <item itemvalue="Application.Sept._25092024.Task3" />
-        <item itemvalue="Application.lab3" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728412931426</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task done">
+      <option name="closed" value="true" />
+      <created>1728464550029</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728464550029</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task done">
+      <option name="closed" value="true" />
+      <created>1728464874854</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728464874854</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,51 +304,51 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sept/_23092024/Task3.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_23092024/Task3.java</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sept/_25092024/Task2.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_25092024/Task2.java</url>
           <line>6</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sept/_25092024/Task2.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_25092024/Task2.java</url>
           <line>10</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sept/_20092024/Task2.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_20092024/Task2.java</url>
           <line>5</line>
-          <properties class="Sept._20092024.Task2" method="main">
+          <properties class="Sept.Sept_20092024.Task2" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sept/_20092024/Task4.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_20092024/Task4.java</url>
           <line>8</line>
-          <properties class="Sept._20092024.Task4" method="main">
+          <properties class="Sept.Sept_20092024.Task4" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sept/_23092024/lab2.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_23092024/lab2.java</url>
           <line>3</line>
-          <properties class="Sept._23092024.lab2" method="main">
+          <properties class="Sept.Sept_23092024.lab2" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Sept/_25092024/Task3.java</url>
+          <url>file://$PROJECT_DIR$/src/Sept/Sept_25092024/Task3.java</url>
           <line>2</line>
-          <properties class="Sept._25092024.Task3">
+          <properties class="Sept.Sept_25092024.Task3">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
