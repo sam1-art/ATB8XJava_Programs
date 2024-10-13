@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704557da-f683-45bb-ba31-5e6187ef8c98" name="Changes" comment="task done">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Oct_04102024/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Oct_04102024/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Oct_11102024/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Oct_11102024/Lab1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Oct_11102024/TestCase1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,46 +52,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ATBStudent.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab002.executor": "Run",
-    "Application.Lab01.executor": "Run",
-    "Application.Lab010.executor": "Run",
-    "Application.Lab011.executor": "Run",
-    "Application.Lab012.executor": "Run",
-    "Application.Lab02.executor": "Run",
-    "Application.Lab03.executor": "Run",
-    "Application.Lab04.executor": "Run",
-    "Application.Person_Objects.executor": "Run",
-    "Application.Sept.Sept_20092024.Task3.executor": "Run",
-    "Application.Sept.Sept_27092024.Task1.executor": "Run",
-    "Application.Sept.Sept_27092024.Task2.executor": "Run",
-    "Application.Sept.Sept_30092024.Lab01.executor": "Run",
-    "Application.Sept._20092024.Task1.executor": "Run",
-    "Application.Sept._20092024.Task2.executor": "Run",
-    "Application.Sept._20092024.Task3.executor": "Run",
-    "Application.Sept._20092024.Task4.executor": "Run",
-    "Application.Sept._25092024.Task1.executor": "Run",
-    "Application.Sept._25092024.Task3.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "Application.Task4.executor": "Run",
-    "Application.Task5.executor": "Run",
-    "Application.Task_16092024.executor": "Run",
-    "Application.lab1.executor": "Run",
-    "Application.lab2.executor": "Run",
-    "Application.lab3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/ATB8XJavaPrograms1/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ATBStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person_Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept.Sept_20092024.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept.Sept_27092024.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept.Sept_27092024.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept.Sept_30092024.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept._20092024.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept._20092024.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept._20092024.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept._20092024.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept._25092024.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sept._25092024.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_16092024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/IdeaProjects/ATB8XJavaPrograms1/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Sept.Sept_16092024" />
@@ -98,7 +99,7 @@
       <recent name="Sept" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task">
+  <component name="RunManager" selected="Application.Lab1">
     <configuration name="ATBStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.Oct_02102024.ATBStudent" />
       <module name="ATB8XJavaPrograms1" />
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Sept_30092024.Lab04" />
+    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.Oct_11102024.Lab1" />
       <module name="ATB8XJavaPrograms1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Sept_30092024.*" />
+          <option name="PATTERN" value="Oct.Oct_11102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab1" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.Person_Objects" />
         <item itemvalue="Application.ATBStudent" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Lab04" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728489626560</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="task done">
+      <option name="closed" value="true" />
+      <created>1728575024359</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728575024359</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,6 +385,11 @@
           <url>file://$PROJECT_DIR$/src/Sept/Sept_25092024/Task2.java</url>
           <line>10</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/Oct_04102024/Task.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sept/Sept_20092024/Task2.java</url>
